@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+Proffy is an online study platform that helps people find teachers online.
 
 ## 🔖 Layout
 
